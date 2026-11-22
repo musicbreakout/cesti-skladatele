@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" width="600" height="380">
+  <defs>
+    <linearGradient id="art-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FAF6F0"/>
+      <stop offset="100%" stop-color="#E8ECE2"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#art-bg)"/>
+  <!-- Decorative Music Notation Bars -->
+  <g stroke="#182E28" stroke-opacity="0.15" stroke-width="1.2">
+    <line x1="40" y1="50" x2="560" y2="50"/>
+    <line x1="40" y1="65" x2="560" y2="65"/>
+    <line x1="40" y1="80" x2="560" y2="80"/>
+    <line x1="40" y1="95" x2="560" y2="95"/>
+    <line x1="40" y1="110" x2="560" y2="110"/>
+
+    <line x1="40" y1="180" x2="560" y2="180"/>
+    <line x1="40" y1="195" x2="560" y2="195"/>
+    <line x1="40" y1="210" x2="560" y2="210"/>
+    <line x1="40" y1="225" x2="560" y2="225"/>
+    <line x1="40" y1="240" x2="560" y2="240"/>
+  </g>
+
+  <!-- Big Classical Symbol -->
+  <circle cx="480" cy="190" r="85" fill="#182E28" fill-opacity="0.06"/>
+  <text x="480" y="235" font-family="'Playfair Display', serif" font-size="130" fill="#C27845" opacity="0.75" text-anchor="middle">🎻</text>
+
+  <!-- Category Tag -->
+  <rect x="40" y="130" width="120" height="28" rx="14" fill="#C27845"/>
+  <text x="100" y="149" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">Výročí</text>
+
+  <!-- Title preview -->
+  <text x="40" y="200" font-family="'Playfair Display', serif" font-size="26" font-weight="bold" fill="#182E28">Studie pro smyčcový orchestr</text>
+  <rect x="40" y="225" width="60" height="3" fill="#8C775E"/>
+</svg>

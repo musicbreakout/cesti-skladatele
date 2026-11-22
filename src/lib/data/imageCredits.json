@@ -1,0 +1,217 @@
+[
+  {
+    "file": "static/images/places/nelahozeves.jpg",
+    "commonsFile": "Nelahozeves,_rodný_dům_Antonína_Dvořáka.jpg",
+    "artist": "cs:ŠJů",
+    "license": "CC BY-SA 3.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nelahozeves%2C_rodn%C3%BD_d%C5%AFm_Anton%C3%ADna_Dvo%C5%99%C3%A1ka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/composers/dvorak.jpg",
+    "label": "Antonín Dvořák (portrét)",
+    "commonsTitle": "Dvorak 1901.jpg",
+    "artist": "Jan &amp; Joseph Mulač, Prague",
+    "license": "Public domain",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Dvorak_1901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/places/nelahozeves-zamek.jpg",
+    "label": "Zámek Nelahozeves",
+    "commonsTitle": "Nelahozeves CZ zamek 499.jpg",
+    "artist": "User:Miaow Miaow",
+    "license": "Public domain",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Nelahozeves_CZ_zamek_499.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/places/vysoka.jpg",
+    "label": "Památník Antonína Dvořáka ve Vysoké u Příbrami",
+    "commonsTitle": "Památník Antonína Dvořáka (2).JPG",
+    "artist": "Chmee2",
+    "license": "CC BY-SA 3.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Pam%C3%A1tn%C3%ADk_Anton%C3%ADna_Dvo%C5%99%C3%A1ka_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/places/rusalcino-jezirko.jpg",
+    "label": "Rusalčino jezírko",
+    "commonsTitle": "Památník Antonína Dvořáka jezírko (2).JPG",
+    "artist": "Chmee2",
+    "license": "CC BY-SA 3.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Pam%C3%A1tn%C3%ADk_Anton%C3%ADna_Dvo%C5%99%C3%A1ka_jez%C3%ADrko_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/places/kralupy-muzeum.jpg",
+    "label": "Městské muzeum Kralupy nad Vltavou",
+    "commonsTitle": "Městské muzeum v Kralupech nad Vltavou, reliéf.jpg",
+    "artist": "ŠJů (cs:ŠJů)",
+    "license": "CC BY-SA 3.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/M%C4%9Bstsk%C3%A9_muzeum_v_Kralupech_nad_Vltavou%2C_reli%C3%A9f.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/places/zlonice.jpg",
+    "label": "Památník Antonína Dvořáka ve Zlonicích",
+    "commonsTitle": "Zlonice, Památník Antonína Dvořáka, špitál, hlavní sál (6).jpg",
+    "artist": "Palickap",
+    "license": "CC BY 4.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Zlonice%2C_Pam%C3%A1tn%C3%ADk_Anton%C3%ADna_Dvo%C5%99%C3%A1ka%2C_%C5%A1pit%C3%A1l%2C_hlavn%C3%AD_s%C3%A1l_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/places/rudolfinum.jpg",
+    "label": "Rudolfinum – sídlo České filharmonie",
+    "commonsTitle": "Praha Rudolfinum isometric.jpg",
+    "artist": "Neznámý",
+    "license": "CC BY-SA 2.5",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Praha_Rudolfinum_isometric.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/composers/smetana.jpg",
+    "label": "Bedřich Smetana (portrét)",
+    "commonsTitle": "Dvorak Happening (programmaboekje).pdf",
+    "artist": "deSingel",
+    "license": "CC BY 4.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Dvorak_Happening_%28programmaboekje%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/places/litomysl.jpg",
+    "label": "Zámecký pivovar v Litomyšli – rodný byt B. Smetany",
+    "commonsTitle": "Litomyšl zámecký pivovar 01.JPG",
+    "artist": "Petr1888",
+    "license": "CC BY-SA 3.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Litomy%C5%A1l_z%C3%A1meck%C3%BD_pivovar_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/places/jabkenice.jpg",
+    "label": "Myslivna v Jabkenicích – Památník B. Smetany",
+    "commonsTitle": "Jabkenická myslivna.jpg",
+    "artist": "palickap",
+    "license": "Public domain",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Jabkenick%C3%A1_myslivna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/composers/ryba.jpg",
+    "label": "Jakub Jan Ryba (dobová rytina)",
+    "commonsTitle": "JJryba.jpg",
+    "artist": "Neznámý",
+    "license": "Public domain",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/JJryba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/places/stary-rozmital.jpg",
+    "label": "Kostel Povýšení sv. Kříže ve Starém Rožmitále",
+    "commonsTitle": "Starý Rožmitál.JPG",
+    "artist": "Ondřej Koníček",
+    "license": "CC BY-SA 3.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Star%C3%BD_Ro%C5%BEmit%C3%A1l.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/places/rozmital-zamek.jpg",
+    "label": "Zámek Rožmitál pod Třemšínem",
+    "commonsTitle": "Zámek Rožmitál pod Třemšínem 02.JPG",
+    "artist": "JAn Dudík",
+    "license": "CC BY-SA 3.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Z%C3%A1mek_Ro%C5%BEmit%C3%A1l_pod_T%C5%99em%C5%A1%C3%ADnem_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/composers/suk.jpg",
+    "label": "Josef Suk (historický portrét)",
+    "commonsTitle": "Josef Suk.jpg",
+    "artist": "Neznámý autor (Public Domain)",
+    "license": "Public domain",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Josef_Suk.jpg"
+  },
+  {
+    "dest": "static/images/places/krecovice.jpg",
+    "label": "Památník Josefa Suka v Křečovicích",
+    "commonsTitle": "Krecovice2.jpg",
+    "artist": "Posázaví",
+    "license": "CC BY-SA 3.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Krecovice2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/places/citoliby.jpg",
+    "label": "Zámek Citoliby",
+    "commonsTitle": "Citoliby(Louny) Zamek.JPG",
+    "artist": "sunfreedom",
+    "license": "CC BY-SA 3.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Citoliby%28Louny%29_Zamek.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/places/dobrany.jpg",
+    "label": "Kostel sv. Mikuláše a sv. Víta v Dobřanech",
+    "commonsTitle": "Dobřany - kostel svatého Mikuláše 1.JPG",
+    "artist": "Krabat77",
+    "license": "CC BY-SA 3.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Dob%C5%99any_-_kostel_svat%C3%A9ho_Mikul%C3%A1%C5%A1e_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/places/bakov.jpg",
+    "label": "Kostel sv. Bartoloměje v Bakově nad Jizerou",
+    "commonsTitle": "Bakov nad Jizerou - kostel svatého Bartoloměje (4).JPG",
+    "artist": "MartinVeselka",
+    "license": "CC BY-SA 4.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bakov_nad_Jizerou_-_kostel_svat%C3%A9ho_Bartolom%C4%9Bje_%284%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/places/kosmonosy.jpg",
+    "label": "Piaristický klášter v Kosmonosích",
+    "commonsTitle": "Kosmonosy klaster crop.jpg",
+    "artist": "Zdeněk Fiedler",
+    "license": "CC BY-SA 3.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Kosmonosy_klaster_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/places/hukvaldy-liska.jpg",
+    "label": "Pomník Lišky Bystroušky v oboře Hukvaldy",
+    "commonsTitle": "Hukvaldy-lisiczka-chytruska.jpg",
+    "artist": "Kingahel",
+    "license": "CC BY-SA 3.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Hukvaldy-lisiczka-chytruska.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/composers/martinu.jpg",
+    "label": "Bohuslav Martinů (portrét)",
+    "commonsTitle": "Martinu 1943.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "CC BY-SA 3.0 cz",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Martinu_1943.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/composers/fibich.jpg",
+    "label": "Zdeněk Fibich (portrét)",
+    "commonsTitle": "Zdenek Fibich.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Zdenek_Fibich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/places/vysehrad.jpg",
+    "label": "Vyšehradský hřbitov a Slavín",
+    "commonsTitle": "Slavín (hrobka). Vyšehradský hřbitov. (30).jpg",
+    "artist": "Richenza",
+    "license": "CC BY-SA 3.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Slav%C3%ADn_%28hrobka%29._Vy%C5%A1ehradsk%C3%BD_h%C5%99bitov._%2830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/composers/janacek.jpg",
+    "label": "Leoš Janáček (portrét)",
+    "commonsTitle": "Leoš Janáček.jpg",
+    "artist": "AnonymousUnknown author",
+    "license": "Public domain",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Leo%C5%A1_Jan%C3%A1%C4%8Dek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/composers/linek.jpg",
+    "label": "Jiří Ignác Linek (portrét kantora)",
+    "commonsTitle": "Jiří Ignác Linek (1725-1791), český kantor a hudební skladatel.jpeg",
+    "artist": "Neznámý",
+    "license": "Public domain",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Ji%C5%99%C3%AD_Ign%C3%A1c_Linek_%281725-1791%29%2C_%C4%8Desk%C3%BD_kantor_a_hudebn%C3%AD_skladatel.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "dest": "static/images/hero-vltava-prague.jpg",
+    "label": "Vltava a Pražský hrad ze Smetanova nábřeží (Hero)",
+    "commonsTitle": "Praha, Hradcany z nabrezi.jpg",
+    "artist": "Daniel Baránek",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Praha,_Hradcany_z_nabrezi.jpg"
+  }
+]

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#E8ECE2"/>
+      <stop offset="60%" stop-color="#FAF6F0"/>
+      <stop offset="100%" stop-color="#EDE4D6"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#CBD5C0"/>
+      <stop offset="100%" stop-color="#8C775E"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#sky)"/>
+  
+  <!-- Distant Hills / Architecture Silhouette -->
+  <path d="M 0 250 Q 150 200 300 240 T 600 230 L 600 400 L 0 400 Z" fill="url(#ground)" opacity="0.3"/>
+  <path d="M 0 290 Q 200 260 400 280 T 600 270 L 600 400 L 0 400 Z" fill="#182E28" opacity="0.12"/>
+
+  <!-- Stylized Architectural Monument Silhouette -->
+  <g fill="#182E28" opacity="0.8">
+    <!-- Castle / Church / Landmark Tower -->
+    <rect x="250" y="110" width="50" height="150" rx="3"/>
+    <polygon points="245,110 275,50 305,110" fill="#C27845"/>
+    <polygon points="273,50 275,30 277,50" stroke="#8C775E" stroke-width="2"/>
+    <!-- Side wings -->
+    <rect x="170" y="170" width="90" height="90" rx="2" fill="#223F37"/>
+    <rect x="290" y="170" width="130" height="90" rx="2" fill="#223F37"/>
+    <!-- Roofs -->
+    <polygon points="160,170 215,130 270,170" fill="#C27845" opacity="0.9"/>
+    <polygon points="285,170 355,135 430,170" fill="#C27845" opacity="0.9"/>
+    <!-- Windows -->
+    <rect x="268" y="130" width="14" height="24" rx="7" fill="#FAF6F0"/>
+    <rect x="268" y="170" width="14" height="24" rx="7" fill="#FAF6F0"/>
+    <rect x="190" y="190" width="16" height="20" rx="2" fill="#FAF6F0"/>
+    <rect x="220" y="190" width="16" height="20" rx="2" fill="#FAF6F0"/>
+    <rect x="320" y="190" width="16" height="20" rx="2" fill="#FAF6F0"/>
+    <rect x="360" y="190" width="16" height="20" rx="2" fill="#FAF6F0"/>
+  </g>
+
+  <!-- Trees & Foreground -->
+  <g fill="#182E28" opacity="0.7">
+    <ellipse cx="120" cy="270" rx="35" ry="50"/>
+    <ellipse cx="150" cy="280" rx="25" ry="40"/>
+    <ellipse cx="460" cy="275" rx="40" ry="55"/>
+    <ellipse cx="500" cy="285" rx="30" ry="45"/>
+  </g>
+
+  <!-- Card Overlay / Bottom Banner -->
+  <rect x="0" y="300" width="600" height="100" fill="#182E28" opacity="0.88"/>
+  <line x1="0" y1="300" x2="600" y2="300" stroke="#C27845" stroke-width="3"/>
+  <text x="35" y="342" font-family="'Playfair Display', serif" font-size="28" font-weight="bold" fill="#F5EFE6">Praha – Vyšehrad</text>
+  <text x="35" y="372" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" fill="#CBD5C0">Slavín a hrobky velikánů • Hlavní město</text>
+  <text x="545" y="360" font-family="'Playfair Display', serif" font-size="36" fill="#C27845" text-anchor="middle">⚜️</text>
+</svg>
